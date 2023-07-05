@@ -1,2 +1,2 @@
 # Notepad-App
-source code
+source code for notepad app
